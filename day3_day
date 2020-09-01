@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>STAR NIGHT</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="images/logo.ico"/><link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html"><h1 style="font-family: 'Lobster Two', cursive;margin-top:15px;">D'Equinox</h1></a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							
+							<li>
+								<a href="">Events</a>
+								<ul>
+									<li><a href="#">Day Events</a></li>
+									<li><a href="day3_night.html">Night Events</a></li>
+									<!--<li>
+										<a href="">More Events</a>
+										<ul>
+											<li><a href="volleyball.html">Volleyball</a></li>
+											<li><a href="handball.html">Handball</a></li>
+											<li><a href="tt.html">Table Tennis</a></li>
+											<li><a href="badminton.html">Badminton</a></li>
+											<li><a href="chess.html">Chess</a></li>
+										</ul>
+									</li>
+								-->
+								</ul>
+							</li>
+							<li><a href="Sponsors.html">Sponsors</a></li>
+							<li><a href="Team.html">Team</a></li>
+							<li><a href="Gallery.html">Gallery</a></li>
+							<li><a href="policies.html" class="button special">Register</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="juetbox.jpg" alt="" /></span>
+
+					<div class="content" style="padding:25px;opacity:0.5 ">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2>JUET BOX</h2>
+										<p>DAY:- Sunday<br>
+                                           TIME:- 11pm - 5pm<br> 
+                                           VENUE:- Nehru Place<br>
+                                    </header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<header>
+									<h2>Event Details:</h2>  
+										<p>A jukebox is a partially automated music-playing device, usually a coin-operated machine, that will play a patron's selection from self-contained media.Since our university organises that hence it is named as juetbox.</p>
+									 </header>
+								</div>
+								<div class="4u$ 12u$(medium)">
+									<br><br>
+									<em><strong><p>The Golden Rule of Dance ~ “Work like you don’t need the money. Love like you’ve never been hurt. Dance like nobody’s watching.”</p></strong></em>
+									
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+
+				<section id="two" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="connected.jpg" alt="" /></span>
+					<div class="content" style="padding:25px;opacity:0.5 ">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2>CONNECTED</h2>
+										<p>DAY:- Saturday <br>
+                                           TIME:- 11pm - 12pm<br> 
+                                           VENUE:- Academic Block Gate<br>
+                                    </header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<header>
+									<h2>Event Details: </h2> 
+									</header>
+										<p><b>Literary Wing Presents:</b><br>The event will be connected in two different rooms.Team of two people would participate in this event. Participants will be seated in different rooms and will be needed to answer same questions about themselves and other person.Team with maximum no. of same answers would win.<br><b>Chances to win goodies from Jio, movie tickets and many more exciting coupons.</b></p>
+									 
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+				<section id="three" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="quiz.jpg" alt="" /></span>
+					<div class="content" style="padding:25px;opacity:0.5 ">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2>OBSCURA (QUIZ TIME)</h2>
+										<p>DAY:- Saturday <br>
+                                           TIME:- 11pm - 1pm<br> 
+                                           VENUE:- Lecture Theatre<br>
+                                    </header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<header>
+									<h2>Event Details: </h2> 
+									</header>
+										<p><b>Media Wing & CSI Presents:</b><br>What is you found out googling in a quiz is acceptable?<br>Well, here is a chance for you to avail this pecularity!The publication Club of Computer Science of India, JUET with "Media Wing" brings to you "OBSCURA".<br><b><u>NOTE: </u>You are free to google all you want!</b></p>
+									 
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+
+				<section id="four" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="nukkad.jpg" alt="" /></span>
+					<div class="content" style="padding:25px;opacity:0.5 ">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2>NUKKAD NATAK</h2>
+										<p>DAY:- Saturday <br>
+                                           TIME:- 3pm - 4pm<br> 
+                                           VENUE:- Nehru Place<br>
+                                    </header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<header>
+									<h2>Event Details: </h2> 
+									</header>
+										<p>From demonetization of currency to Global warming, brng thunder and lightning tin your performance that concern your reality. Voice your thougths in the most impassioned way through a nukkad natak that moves people to action.</p>
+									 
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<a href="#footer" class="goto-next scrolly">Next</a>
+				</section>
+				
+
+				<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						
+						<li><a href="https://www.facebook.com/dequinox.jyc/?epa=SEARCH_BOX" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.youtube.com/channel/UCSu_wzUF7Ki3iS_bmd1XbTw" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
+						<li><a href="https://www.instagram.com/dequinox_2019/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+						<li><a href="https://plus.google.com/u/0/118104185458153537781" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Cultural Wing JUET. All rights reserved.</li>
+
+					</ul>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<script src="https://maps.googleapis.com/maps/api/js"></script>
+
+
+<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+
+
+	</body>
+</html>
